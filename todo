@@ -1,0 +1,29 @@
+target:10000rmb
+
+evolution game
+system
+	netmsg
+		stream
+	database
+	config
+	serial
+	scene
+	move
+	fight
+	skill
+	monster
+	drop
+	food
+	
+gather
+	rand reward
+		skill
+		food
+	rand danger
+		dec hp
+buy
+	food
+	equip
+	partner
+	child
+
