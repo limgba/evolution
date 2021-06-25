@@ -27,3 +27,19 @@ buy
 	partner
 	child
 
+
+author
+	broadcast
+
+todolist
+	group
+
+todo
+	group
+	id
+	content
+	picture list
+	creater
+	principal
+	create_time
+	finish_time
