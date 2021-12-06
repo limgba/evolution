@@ -1,7 +1,7 @@
 #!/bin/sh
 
 pwd=$PWD
-cd ../src
+cd ../../src
 
 mkdir $1
 cd $1
