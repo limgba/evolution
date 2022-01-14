@@ -7,8 +7,6 @@ $head_file='#ifndef $define_H
 class $class
 {
 public:
-	$class() = default;
-	~$class() = default;
 
 private:
 	

@@ -1,6 +1,5 @@
 #ifndef SHAPE_h
 #define SHAPE_h
-#include "../coord/coord.h"
 
 class Shape
 {
